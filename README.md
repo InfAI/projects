@@ -6,8 +6,22 @@ This is an umbrella repository which provides an overview of open source project
 
 ## Contents
 
+- [DE4L](#de4l)
 - [SENERGY](#senergy)
 - [SEPL](#sepl)
+
+## DE4L
+
+The DE4L project is pursuing the development of an intelligent ecosystem as part of a platform for data exchange for logistics service companies. This is to avoid high congestion on delivery vehicles, costs due to incorrect delivery and repeated delivery and pickup attempts. The so-called “last mile” of the supply chain, meaning the exact delivery and collection of parcels at the front door, offers a great deal of potential for increasing efficiency. With the platform DE4L strengthens the cooperation of the service companies and promotes the digitization of information.
+
+### Repositories
+| Repository                                             | Description                                 |
+|--------------------------------------------------------|---------------------------------------------|
+| [DE4L](https://github.com/DE4L-Project)| GitHub Organization of the DE4L project. |
+
+**Website:** [https://de4l.io/](https://de4l.io/)\
+**Acknowledgement:** The project is funded by the German Federal Ministry for Economic Affairs and Energy (01MD19008A).
+**Project Duration**: August 2019 to July 2022
 
 ## SENERGY
 
