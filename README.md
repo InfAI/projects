@@ -18,6 +18,7 @@ The DE4L project is pursuing the development of an intelligent ecosystem as part
 | Repository                                             | Description                                 |
 |--------------------------------------------------------|---------------------------------------------|
 | [DE4L](https://github.com/DE4L-Project)| GitHub Organization of the DE4L project. |
+| [DE4L Sensing App](https://github.com/DE4L-Project/de4l-sensor-android-app)| GitHub repository for the DE4L Sensing Android app |
 
 **Website:** [https://de4l.io/](https://de4l.io/)\
 **Acknowledgement:** The project is funded by the German Federal Ministry for Economic Affairs and Energy (01MD19008A).\
