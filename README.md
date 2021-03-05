@@ -20,7 +20,7 @@ The DE4L project is pursuing the development of an intelligent ecosystem as part
 | [DE4L](https://github.com/DE4L-Project)| GitHub Organization of the DE4L project. |
 
 **Website:** [https://de4l.io/](https://de4l.io/)\
-**Acknowledgement:** The project is funded by the German Federal Ministry for Economic Affairs and Energy (01MD19008A).
+**Acknowledgement:** The project is funded by the German Federal Ministry for Economic Affairs and Energy (01MD19008A).\
 **Project Duration**: August 2019 to July 2022
 
 ## SENERGY
