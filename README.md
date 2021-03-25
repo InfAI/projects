@@ -61,8 +61,4 @@ SEPL is a cloud-based energy data platform which connects to different data sour
 
 # How to Contribute
 
-Associates of the [InfAI](https://www.infai.org) are invited to contribute to this repository. Please make sure that you are following the [ contribution guidelines](./CONTRIBUTING.md).
-
-# License
-
-[MIT](./LICENSE.txt)
+Associates of the [InfAI](https://www.infai.org) are invited to contribute to this repository. Please use the provided structure if you want to add new projects.
