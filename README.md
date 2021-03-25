@@ -6,9 +6,21 @@ This is an umbrella repository which provides an overview of open source project
 
 ## Contents
 
+- [AKSW](#aksw)
 - [DE4L](#de4l)
 - [SENERGY](#senergy)
 - [SEPL](#sepl)
+
+## AKSW
+Agile Knowldge Engineering and Semantic Web research network (AKSW) is a scientific network, distributed over various universities and scientific institutes (including InfAI), whose members are involved in various national and international research and software projects. Technologies from the field of semantic web and linked data are primarily developed and evaluated. The following repository/organisation contains publicly available project artifacts for which AKSW is directly responsible.
+
+### Repositories
+| Repository/Organisation                                | Description                                 |
+|--------------------------------------------------------|---------------------------------------------|
+| [AKSW](https://github.com/AKSW)                        | GitHub Organization of AKSW. |
+
+**Website:** [https://aksw.org](https://aksw.org)
+
 
 ## DE4L
 
@@ -46,16 +58,6 @@ SEPL is a cloud-based energy data platform which connects to different data sour
 
 **Website:** [https://sepl.infai.org](https://sepl.infai.org)\
 **Acknowledgement:** The project was funded by the European Regional Development Fund (ERDF) and the Free State of Saxony.
-
-## AKSW
-Agile Knowldge Engineering and Semantic Web research network (AKSW) is a scientific network, distributed over various universities and scientific institutes (including InfAI), whose members are involved in various national and international research and software projects. Technologies from the field of semantic web and linked data are primarily developed and evaluated. The following repository/organisation contains publicly available project artifacts for which AKSW is directly responsible.
-
-### Repositories
-| Repository/Organisation                                | Description                                 |
-|--------------------------------------------------------|---------------------------------------------|
-| [AKSW](https://github.com/AKSW)                        | GitHub Organization of AKSW. |
-
-**Website:** [https://aksw.org](https://aksw.org)
 
 # How to Contribute
 
