@@ -36,6 +36,17 @@ The DE4L project is pursuing the development of an intelligent ecosystem as part
 **Acknowledgement:** The project is funded by the German Federal Ministry for Economic Affairs and Energy (01MD19008A).\
 **Project Duration**: August 2019 to July 2022
 
+## IRPsim
+
+IRPsim is an infrastructure for the computation of different models in the energy domain. Currently, it consists of the web-based IRPsim infrastructure and the main models IRPopt and IRPact. The IRPsim-infrastructure enables the management of input and output data in a structured database, parallelized model execution and automatic model linkage. IRPopt (Integrated Resource Planning and Optimization) is an integrated energy system optimization model. It integrates the techno-economic system aspects by simultaneously taking the roles of different actors into account. IRPact models the adoption behaviour of various heterogeneous stakeholder groups. The socio-economic entities and dynamics are based on an agent-based modelling framework and the adoption processes are empirically grounded.
+
+### Repositories
+| Repository                                             | Description                                 |
+|--------------------------------------------------------|---------------------------------------------|
+| [IRPsim Organization](https://github.com/IRPsim)| GitHub Organization of the IRPsim project. |
+
+**Website:** [https://irpsim.uni-leipzig.de/](https://irpsim.uni-leipzig.de/)
+
 ## SENERGY
 
 SENERGY is a smart service platform which enables the automated integration, (pre-)processing and analysis of sensor data. It also supports business process automation by leveraging IoT technologies and advanced data analytics, such as machine learning algorithms. The platform has been designed for cross-sectoral application possibilities (e.g. energy management, health, security, convenience and entertainment) in many different IoT scenarios.
