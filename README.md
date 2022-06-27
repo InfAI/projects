@@ -33,8 +33,8 @@ The DE4L project is pursuing the development of an intelligent ecosystem as part
 | [DE4L Sensing App](https://github.com/DE4L-Project/de4l-sensor-android-app)| App for connecting environmental Bluetooth sensors to Android smartphones and transmitting measurements in real-time to the DE4L-Platform.
 
 **Website:** [https://de4l.io/](https://de4l.io/)\
-**Acknowledgement:** The project is funded by the German Federal Ministry for Economic Affairs and Energy (01MD19008A).\
-**Project Duration**: August 2019 to July 2022
+**Acknowledgement:** The project is funded by the German Federal Ministry for Economic Affairs and Climate Action (01MD19008A).\
+**Project Duration**: August 2019 to December 2022
 
 ## IRPsim
 
