@@ -10,6 +10,7 @@ This is an umbrella repository which provides an overview of open source project
 - [DE4L](#de4l)
 - [SENERGY](#senergy)
 - [SEPL](#sepl)
+- [TRANSIT](#transit)
 
 ## AKSW
 Agile Knowldge Engineering and Semantic Web research network (AKSW) is a scientific network, distributed over various universities and scientific institutes (including InfAI), whose members are involved in various national and international research and software projects. Technologies from the field of semantic web and linked data are primarily developed and evaluated. The following repository/organisation contains publicly available project artifacts for which AKSW is directly responsible.
