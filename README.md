@@ -70,6 +70,20 @@ SEPL is a cloud-based energy data platform which connects to different data sour
 **Website:** [https://sepl.infai.org](https://sepl.infai.org)\
 **Acknowledgement:** The project was funded by the European Regional Development Fund (ERDF) and the Free State of Saxony.
 
+## TRANSIT
+
+In the TRANSIT project, a cooperation model with innovative, integrated, data trustee-supported data processing for logistics companies is being developed and implemented as a prototype in the form of a platform. The data trustee, who acts as a B2B intermediary, is intended to enable and promote closer cooperation between companies. Using the trustee, sensitive business process data is exchanged that is not or only reluctantly shared under today's conditions, such as information on loading capacities and delivery relationships.
+
+### Repositories
+| Repository                                             | Description                                 |
+|--------------------------------------------------------|---------------------------------------------|
+| [TRANSIT](https://github.com/TRANSIT-Infai)| GitHub Organization of the TRANSIT project. |
+
+
+**Website:** [https://transit-project.de/](https://transit-project.de/)\
+**Acknowledgement:** The project is funded by the German Federal Ministry for Education and Research (16DTM109A-C).\
+**Project Duration**: January 2022 to June 2024
+
 # How to Contribute
 
 Associates of the [InfAI](https://www.infai.org) are invited to contribute to this repository. Please use the provided structure if you want to add new projects.
