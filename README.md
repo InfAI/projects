@@ -72,7 +72,7 @@ SEPL is a cloud-based energy data platform which connects to different data sour
 
 ## TRANSIT
 
-In the TRANSIT project, a cooperation model with innovative, integrated, data trustee-supported data processing for logistics companies is being developed and implemented as a prototype in the form of a platform. The data trustee, who acts as a B2B intermediary, is intended to enable and promote closer cooperation between companies. Using the trustee, sensitive business process data is exchanged that is not or only reluctantly shared under today's conditions, such as information on loading capacities and delivery relationships.
+Within TRANSIT, a cooperation model with innovative, integrated, data trustee-supported data processing for logistics companies is being developed and implemented as a prototype in the form of a platform. The data trustee, who acts as a B2B intermediary, is intended to enable and promote closer cooperation between companies. Using the trustee, sensitive business process data is exchanged that is not or only reluctantly shared under today's conditions, such as information on loading capacities and delivery relationships.
 
 ### Repositories
 | Repository                                             | Description                                 |
