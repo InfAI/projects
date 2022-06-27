@@ -10,6 +10,7 @@ This is an umbrella repository which provides an overview of open source project
 - [DE4L](#de4l)
 - [SENERGY](#senergy)
 - [SEPL](#sepl)
+- [TRANSIT](#transit)
 
 ## AKSW
 Agile Knowldge Engineering and Semantic Web research network (AKSW) is a scientific network, distributed over various universities and scientific institutes (including InfAI), whose members are involved in various national and international research and software projects. Technologies from the field of semantic web and linked data are primarily developed and evaluated. The following repository/organisation contains publicly available project artifacts for which AKSW is directly responsible.
@@ -33,8 +34,8 @@ The DE4L project is pursuing the development of an intelligent ecosystem as part
 | [DE4L Sensing App](https://github.com/DE4L-Project/de4l-sensor-android-app)| App for connecting environmental Bluetooth sensors to Android smartphones and transmitting measurements in real-time to the DE4L-Platform.
 
 **Website:** [https://de4l.io/](https://de4l.io/)\
-**Acknowledgement:** The project is funded by the German Federal Ministry for Economic Affairs and Energy (01MD19008A).\
-**Project Duration**: August 2019 to July 2022
+**Acknowledgement:** The project is funded by the German Federal Ministry for Economic Affairs and Climate Action (01MD19008A).\
+**Project Duration**: August 2019 to December 2022
 
 ## IRPsim
 
@@ -69,6 +70,20 @@ SEPL is a cloud-based energy data platform which connects to different data sour
 
 **Website:** [https://sepl.infai.org](https://sepl.infai.org)\
 **Acknowledgement:** The project was funded by the European Regional Development Fund (ERDF) and the Free State of Saxony.
+
+## TRANSIT
+
+Within TRANSIT, a cooperation model with innovative, integrated, data trustee-supported data processing for logistics companies is being developed and implemented as a prototype in the form of a platform. The data trustee, who acts as a B2B intermediary, is intended to enable and promote closer cooperation between companies. Using the trustee, sensitive business process data is exchanged that is not or only reluctantly shared under today's conditions, such as information on loading capacities and delivery relationships.
+
+### Repositories
+| Repository                                             | Description                                 |
+|--------------------------------------------------------|---------------------------------------------|
+| [TRANSIT](https://github.com/TRANSIT-Infai)| GitHub Organization of the TRANSIT project. |
+
+
+**Website:** [https://transit-project.de/](https://transit-project.de/)\
+**Acknowledgement:** The project is funded by the German Federal Ministry for Education and Research (16DTM109A-C).\
+**Project Duration**: January 2022 to June 2024
 
 # How to Contribute
 
